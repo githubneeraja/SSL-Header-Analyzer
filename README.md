@@ -40,8 +40,8 @@ Scoring System – Grades the website’s overall security posture (A, B, C, or 
 
  AI Models Used
 
-*Google Gemini (PaLM API) for intelligent report writing.
-*LangChain Agent Nodes for structured analysis and summarization.
+Google Gemini (PaLM API) for intelligent report writing.
+LangChain Agent Nodes for structured analysis and summarization.
 
 
 
@@ -49,19 +49,19 @@ Scoring System – Grades the website’s overall security posture (A, B, C, or 
 
 You’ll receive anemail report that includes:
 
-* Overall SecurityGrade (A–F)
-* List ofpresent/missing security headers
-*Cookie security findings
-*Client-side vulnerabilities
-*SSL/TLS certificate details
-*Recommendations for fixes
+ Overall SecurityGrade (A–F)
+ List ofpresent/missing security headers
+Cookie security findings
+Client-side vulnerabilities
+SSL/TLS certificate details
+Recommendations for fixes
 
 
 
   Example Use Case
 
-* Enter a website URL (e.g., `https://example.com`)
-* The workflow will:
+ Enter a website URL (e.g., `https://example.com`)
+ The workflow will:
 
   1. Check SSL/TLS validity and grade
   2. Fetch headers and HTML
@@ -119,9 +119,9 @@ Certificate Expiry: 2026-01-01
 
 Future Enhancements
 
-* AddDNSSEC validation
-* IncludeOWASP Top 10 scanning integration
-* AddDashboard UI for visual reports
+ AddDNSSEC validation
+ IncludeOWASP Top 10 scanning integration
+ AddDashboard UI for visual reports
 
 
 
