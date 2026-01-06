@@ -4,7 +4,7 @@ Building SSL Header Analyzer
 
   SSL Header Analyzer — n8n Workflow
 
- Overview
+ Overview:
 
 TheSSL Header Analyzer is ann8n workflow that automatically scans websites for SSL/TLS configuration issues, HTTP security headers, and client-side vulnerabilities. It combinesAI-based analysis (using Google Gemini and LangChain) withSSL Labs API integration to generate a detailedsecurity audit report.
 
@@ -70,7 +70,7 @@ Recommendations for fixes
 
 
 
-  Requirements
+  Requirements:
 
 | Tool                         | Purpose                      |
 | - | - |
